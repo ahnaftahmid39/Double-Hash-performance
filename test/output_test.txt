@@ -1,0 +1,16 @@
+Hash table m: 12007
+Hash table m': 11987
+
+<<--- Insertion ---->>
+
+STL Set insertion time: 4522 us
+BST insertion time: 1409 us
+Hashtable insertion time: 622 us
+
+<<--- Searching ---->>
+
+BST searching time: 757 us, found count: 2082
+STL set searching time: 1243 us, found count: 2082
+Hashtable searching time: 227 us, found count: 2082
+
+Total probe count: 7268
